@@ -1,0 +1,4 @@
+baseURL = 'https://gauravchandra.com/'
+locale = 'en-us'
+title = 'Gaurav Chandra'
+theme = 'paper'
