@@ -1,4 +1,38 @@
 baseURL = 'https://gauravchandra.com/'
-locale = 'en-us'
+languageCode = 'en-us'
 title = 'Gaurav Chandra'
-theme = 'paper'
+theme = 'hugo-resume'
+locale = 'en-us'
+paginate = 5
+
+[params]
+  firstName = 'Gaurav'
+  lastName = 'Chandra'
+  address = 'San Jose, California'
+  email = ''
+  phone = ''
+  profileImage = 'img/profile.jpg'
+  description = 'Your short leadership tagline or bio goes here.'
+  showQr = false
+  showContact = false
+  showSocializations = true
+  sections = []
+
+[params.customSections.blog]
+  name = "Blog"
+  url = "/blog/"
+
+[[params.handles]]
+  name = "LinkedIn"
+  link = "https://www.linkedin.com/in/gauravchandra/"
+
+[params.google]
+[params.google.analytics]
+  trackerID = ""
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[taxonomies]
+  tag = "tags"
+
