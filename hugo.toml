@@ -28,7 +28,7 @@ paginate = 5
 
 [params.google]
 [params.google.analytics]
-  trackerID = ""
+  trackerID = "G-50YBPRHH6J"
 
 [outputs]
   home = ["HTML", "JSON"]
