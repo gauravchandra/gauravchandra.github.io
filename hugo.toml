@@ -24,7 +24,7 @@ paginate = 5
 
 [[params.handles]]
   name = "LinkedIn"
-  link = "https://www.linkedin.com/in/gauravchandra/"
+  link = "https://www.linkedin.com/in/gaurav-chandra/"
 
 [params.google]
 [params.google.analytics]
