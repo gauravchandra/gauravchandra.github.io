@@ -10,6 +10,8 @@ After 9 years at Tesla, the time has come for me to move on to the next chapter 
 
 If I had to sum up my journey in one word, it would be: gratitude.
 
+<!--more-->
+
 I feel incredibly fortunate to have worked alongside so many talented people and to have accomplished so much together. When I first joined, Tesla felt so chaotic that my instinct was to run back to where I came from — I gave myself three months. After three months, I extended it to a year. Somewhere along the way, I began to understand that the chaos wasn’t something to fix—it was the engine of innovation. Structure brings efficiency, but chaos is where breakthroughs are born.
 
 Nine years later, I’ve had the privilege of contributing across the FSD & Dojo silicon team, radars and other sensors, ADAS systems, and most recently, robotics. It’s been deeply rewarding to be part of the journey where we grew from a company selling fewer than 50K cars to one approaching 10M—and now redefining FSD and robotics.
