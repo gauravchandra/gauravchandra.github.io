@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/embracing-the-reset/</loc>
+    <loc>http://localhost:54565/blog/embracing-the-reset/</loc>
     <lastmod>2026-04-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>http://localhost:54565/blog/memories-from-the-tesla-factory-hell/</loc>
+    <lastmod>2026-04-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:54565/blog/</loc>
     <lastmod>2026-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:54565/</loc>
     <lastmod>2026-04-03T00:00:00+00:00</lastmod>
     <priority>1</priority>
   </url><url>
-    <loc>http://localhost:1313/blog/moving-on-from-tesla/</loc>
+    <loc>http://localhost:54565/blog/moving-on-from-tesla/</loc>
     <lastmod>2026-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:54565/tags/</loc>
   </url>
 </urlset>
