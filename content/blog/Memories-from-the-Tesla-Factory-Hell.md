@@ -22,5 +22,5 @@ Surprising myself, I got that job done. Over the next several weeks, I did many 
 
 There was no politics; everybody respected everybody, and there was a shared sense of the big mission we were part of. That is the experience we carried forward when we went back to our regular work lives, something that helped us bond and collaborate for years after.
 
-*To be continued...*
+*(Part 2 of this story is [here](http://localhost:1313/blog/the-tesla-delivery-hell/).)*
 
