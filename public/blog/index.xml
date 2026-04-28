@@ -6,8 +6,15 @@
     <description>Recent content in Blog on Gaurav Chandra</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Tesla Delivery Hell</title>
+      <link>http://localhost:1313/blog/the-tesla-delivery-hell/</link>
+      <pubDate>Mon, 27 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/the-tesla-delivery-hell/</guid>
+      <description>&lt;p&gt;While much has been said about Tesla&amp;rsquo;s production hell, not many are aware of the delivery hell we faced after overcoming the first challenge.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Memories from the Tesla Production Hell</title>
       <link>http://localhost:1313/blog/memories-from-the-tesla-factory-hell/</link>
