@@ -1,7 +1,7 @@
 ---
 date: 2026-05-07
 draft: false
-title: 'What it takes to get hired at Tesla'
+title: 'Hiring star engineers' 
 tags: []
 featured: true
 ---
