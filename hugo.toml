@@ -26,6 +26,11 @@ paginate = 5
   name = "LinkedIn"
   link = "https://www.linkedin.com/in/gaurav-chandra/"
 
+[[params.handles]]
+  name = "Substack"
+  link = "https://withgauravchandra.substack.com"
+  icon = "rss"
+
 [params.google]
 [params.google.analytics]
   trackerID = "G-50YBPRHH6J"
