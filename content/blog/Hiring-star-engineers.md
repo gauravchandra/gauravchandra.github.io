@@ -19,7 +19,7 @@ When I am hiring engineers, I use a framework I call STAR:
 - <u><strong>A</strong>ttitude</u>: Do they have the ambition, passion and persistence to push through difficult problems? What many in my generation call “fire in the belly”. Are they self-motivated and looking to grow every single day? 
 - <u><strong>R</strong>igor</u>: Extremely underrated, but do they pay attention to the small things and get those right? I have found that holding yourself to a high standard of rigor in the smallest of details also generalizes well when the same person is faced with tough large-scale decisions. When the stakes are high and doing the right thing might require discomfort and pain, they don’t take shortcuts. This is what it takes to ship things at scale.
 
-This is not in any order of priority. These are all important qualities. I have had to fire brilliant jerks, and I have had to fire great team players who were missing out on attitude or rigor.
+This is not in any order of priority. These are all important qualities. I have had to fire brilliant people who were not fitting in, and I have had to fire great team players who were missing out on attitude or rigor.
 
 I’m not saying domain knowledge is not an important quality. Sometimes we really need to hire a person who has tons of experience in doing exactly what needs to be done, and that person will hit the ground running. They will also bring a perspective which the team may not have. But if they don’t have ALL the above mentioned qualities, their domain advantage will fade very quickly. The business may justify making a compromise like that once in a while. But we need to be mindful that we’re making an exception, and the exceptions need to be very few. 
 
