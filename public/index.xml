@@ -6,10 +6,17 @@
     <description>Recent content on Gaurav Chandra</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hiring star engineers</title>
+      <title>Staying on the Growth Curve</title>
+      <link>http://localhost:1313/blog/staying-on-the-growth-curve/</link>
+      <pubDate>Tue, 19 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/staying-on-the-growth-curve/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;em&gt;Stay Hungry, Stay Foolish.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;p&gt;— Steve Jobs&lt;/p&gt;&#xA;&lt;p&gt;In 2017, I joined Tesla as a Staff Engineer, walking away from a Senior Director position in the Analog Semiconductor space and starting all over again after 15 years. Why? Because I wanted to work in the emerging field of EVs and FSD. The next 9 years were definitely the most rewarding I have ever had in my career, both financially and for my own self-growth.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hiring STAR Engineers</title>
       <link>http://localhost:1313/blog/hiring-star-engineers/</link>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/hiring-star-engineers/</guid>

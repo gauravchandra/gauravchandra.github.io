@@ -1,7 +1,7 @@
 ---
 date: 2026-05-07
 draft: false
-title: 'Hiring star engineers' 
+title: 'Hiring STAR Engineers' 
 tags: []
 featured: true
 ---
