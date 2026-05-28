@@ -41,8 +41,7 @@ At Tesla we were really lucky to have a strong pipeline of interns. We could che
 Building a team like this takes many years. It takes planting a lot of seeds and patiently nurturing them, watching them grow into strong trees over time. But it is one of the most rewarding experiences as a leader. 
 
 
-P.S - What if you’re in your late forties, like me, someone who faces the prospect of finding themselves on the saturating curve B? That’s my next blog. 
-(Coming soon...)
+P.S - What if you’re in your late forties, like me, someone who faces the prospect of finding themselves on the saturating curve B? That’s my [next blog](https://gauravchandra.com/blog/staying-on-the-growth-curve/).
 
 
 
